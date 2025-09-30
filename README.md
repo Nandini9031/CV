@@ -27,7 +27,7 @@ This is an interactive web-based tutorial on door detection for mobile accessibi
    - Click **Settings** → **Pages**
    - Under "Source", select **main** branch
    - Click **Save**
-   - Your site will be published at: `https://YOUR_USERNAME.github.io/door-detection-tutorial/`
+   - Your site will be published at: `(https://nandini9031.github.io/CV/index.html)`
 
 3. **Wait 2-3 minutes** for GitHub to build and deploy your site
 
